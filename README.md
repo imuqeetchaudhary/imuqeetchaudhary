@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Muqeet Arshad</h1>
-<h3 align="center">A Passionate MERN Stack Web Developer from Pakistan</h3>
+<h3 align="center">A Passionate MERN Stack Web Developer from Pakistan. Curently, I'm a student of computer science at <a href="https://www.uet.edu.pk/">University of Engineering and Technology, Lahore, Pakistan.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuqeetchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="imuqeetchaudhary" /> </p>
 
