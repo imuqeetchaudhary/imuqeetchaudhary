@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imuqeetchaudhary&theme=darkhub" alt="imuqeetchaudhary" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muqeetchaudhary" target="blank"><img src="https://img.shields.io/twitter/follow/muqeetchaudhary?logo=twitter&style=for-the-badge" alt="muqeetchaudhary" /></a> </p>
-
 - 🔭 I’m currently working on **POS Software - Digital Hisaab**
 
 - 🌱 I’m currently learning **Angular.js**
