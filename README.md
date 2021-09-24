@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuqeetchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="imuqeetchaudhary" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imuqeetchaudhary" alt="imuqeetchaudhary" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imuqeetchaudhary&theme=darkhub" alt="imuqeetchaudhary" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/muqeetchaudhary" target="blank"><img src="https://img.shields.io/twitter/follow/muqeetchaudhary?logo=twitter&style=for-the-badge" alt="muqeetchaudhary" /></a> </p>
 
