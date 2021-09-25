@@ -44,9 +44,3 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=imuqeetchaudhary&show_icons=true&locale=en&theme=vision-friendly-dark" alt="imuqeetchaudhary" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imuqeetchaudhary&" alt="imuqeetchaudhary" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuqeetchaudhary&show_icons=true&locale=en&langs_count=4" alt="imuqeetchaudhary" />
-</p>
