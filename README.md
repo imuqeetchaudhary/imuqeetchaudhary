@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdul Muqeet Arshad</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://imuqeetchaudhary.github.io/profile">Abdul Muqeet Arshad</a></h1>
 <h3 align="center">A Passionate MERN Stack Web Developer from Pakistan. Curently, I'm a studying BS Computer Sciences at <a href="https://www.uet.edu.pk/">University of Engineering and Technology, Lahore, Pakistan.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuqeetchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="imuqeetchaudhary" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **imuqeetchaudhary@gmail.com**
 
-- 📄 Know about my experiences [https://imuqeetchaudhary.github.io/profile/](https://imuqeetchaudhary.github.io/profile/)
+- 📄 Know about my experiences [https://imuqeetchaudhary.github.io/profile/](https://imuqeetchaudhary.github.io/profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
