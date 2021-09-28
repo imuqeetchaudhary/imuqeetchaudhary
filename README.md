@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **imuqeetchaudhary@gmail.com**
 
-- 📄 Know about my experiences [https://imuqeetchaudhary.github.io/profile/](https://imuqeetchaudhary.github.io/profile)
+- 📄 Know about my experiences [https://imuqeetchaudhary.github.io/profile](https://imuqeetchaudhary.github.io/profile)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
