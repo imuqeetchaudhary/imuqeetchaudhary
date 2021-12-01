@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **POS Software - Digital Hisaab**
 
-- 🌱 I’m currently learning **Angular.js**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Node.js, Express.js**
 
