@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imuqeetchaudhary&theme=darkhub" alt="imuqeetchaudhary" /></a> </p>
 
-- 🔭 I’m currently working on **POS Software - Digital Hisaab**
+- 🔭 I’m currently working on **Health Care App**
 
 - 🌱 I’m currently learning **React.js**
 
