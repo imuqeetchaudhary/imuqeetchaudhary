@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Node.js, Express.js**
+- 💬 Ask me about **React.js, Node.js, Express.js**
 
 - 📫 How to reach me **imuqeetchaudhary@gmail.com**
 
