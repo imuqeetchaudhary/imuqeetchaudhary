@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Health Care App**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **React.js, Node.js, Express.js**
 
