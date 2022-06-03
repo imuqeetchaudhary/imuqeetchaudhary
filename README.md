@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="40px" height="40px">, I'm <a href="https://imuqeetchaudhary.github.io/profile">Abdul Muqeet Arshad</a></h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/46846821/87522094-a135a000-c69e-11ea-899d-e8093968ef3b.gif" width="30px" height="30px">, I'm <a href="https://imuqeetchaudhary.github.io/profile">Abdul Muqeet Arshad</a></h1>
 <h3 align="center">A Passionate MERN Stack Web Developer from Pakistan. Curently, I'm a studying BS Computer Sciences at <a href="https://www.uet.edu.pk/">University of Engineering and Technology, Lahore, Pakistan.</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imuqeetchaudhary&label=Profile%20views&color=0e75b6&style=flat" alt="imuqeetchaudhary" /> </p>
